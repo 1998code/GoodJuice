@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Blue Berry Smoothie",
+    "description": "100% Blue Berry",
+    "type": "Smoothie",
+    "sku": "sku_BBS",
+    "price": 5000,
+    "image": "https://projectgj.startway.io/assets/img/alex-loup-sBDJADrnsbY-unsplash.jpg?h=32e066d9d6b101e60549062d802bde9d",
+    "currency": "HKD",
+    "feature": true,
+    "trend": true
+  },
+  {
+    "name": "Strawberry Smoothie",
+    "description": "100% Strawberry",
+    "type": "Smoothie",
+    "sku": "sku_SBS",
+    "price": 5500,
+    "image": "https://projectgj.startway.io/assets/img/sara-cervera-cjiJUfFCoUs-unsplash.jpg?h=9e0e8109347e03459fc18bc4aaeab9c7",
+    "currency": "HKD",
+    "feature": true,
+    "trend": true
+  },
+  {
+    "name": "Green Fuel Smoothie",
+    "description": "Green life",
+    "type": "Smoothie",
+    "sku": "sku_GFS",
+    "price": 6000,
+    "image": "https://projectgj.startway.io/assets/img/lyfe-fuel-_82CV9I-TP8-unsplash.jpg?h=a5335c2d686ca4f5a6db3e5fd37cfe46",
+    "currency": "HKD",
+    "feature": true,
+    "trend": false
+  },
+  {
+    "name": "Fruit Tea",
+    "description": "Blend fruits with tea",
+    "type": "Tea",
+    "sku": "sku_FT",
+    "price": 4500,
+    "image": "https://projectgj.startway.io/assets/img/types-of-bubble-tea-766451-hero-01-a6dca4dd096a4d8abdde1a754766f851.jpg?h=88652ee85ddb126be16bed774967bdbd",
+    "currency": "HKD",
+    "feature": true,
+    "trend": false
+  },
+  {
+    "name": "Milk Tea",
+    "description": "Smooth Milk + Tea",
+    "type": "Tea",
+    "sku": "sku_MT",
+    "price": 5500,
+    "image": "https://projectgj.startway.io/assets/img/eiliv-sonas-aceron-XCZmP9GR_dY-unsplash.jpg?h=dad80681707cc4ae36f4e919d76ba66d",
+    "currency": "HKD",
+    "feature": true,
+    "trend": true
+  }
+]
