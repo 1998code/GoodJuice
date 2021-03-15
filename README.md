@@ -1,2 +1,2 @@
 # GoodJuice
-A simple drink shop template in HTML.
+A simple drink & e-commerce shop template in HTML.
